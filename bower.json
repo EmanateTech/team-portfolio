@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "authors": [
+    "Harsh Thakkar <harshthakkar46@gmail.com>"
+  ],
+  "description": "portfolio",
+  "moduleType": [],
+  "keywords": [],
+  "license": "MIT",
+  "homepage": "http://hiimharsh.github.io/harsh",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "bootstrap-sass": "^3.3.6"
+  }
+}
